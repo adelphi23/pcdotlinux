@@ -1,0 +1,112 @@
+2021/06/14 18:14:25.288ms EDT
+Operating System Linux 5.12.8-300.fc34.x86_64 Fedora 34 amd64
+Java Version 1.8.0_202, 64-bit, Oracle Corporation
+Available Cores 32
+-Xmx1024m
+-Dsun.java2d.pmoffscreen=false
+-Dsun.java2d.xrender=false
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+-XX:+UseConcMarkSweepGC
+-XX:+ExplicitGCInvokesConcurrent
+-Xmx1024m
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+PDF Studio Version 2020.4.0.20210316084711-b203
+**PDF Studio initialize: 161 ms
+Start load settings
+**Load import image settings: 3 ms
+**Load locale settings: 32 ms
+**Load annotation settings: 17 ms
+**Load print settings: 302 ms
+**Load output preview settings: 37 ms
+**Load javascript settings: 25 ms
+**Load last stamp settings: 0 ms
+**Load stamps: 22 ms
+**Load fast signatures: 156 ms
+**Load user settings total: 634 ms
+**Load visibility settings: 39 ms
+**Load UI defaults: 279 ms
+Resolution: 6400x1600
+Screen DPI: 96
+Multiplier: 1.0
+Installation Directory: /mnt/PCData/PCHome/Applications/pdfstudio2020
+Working Directory: /home/pc
+User Settings Directory: /home/pc/.pdfstudio2020
+Installer: linux64
+LookAndFeel: Nimbus
+Toolbars: Ribbons
+Keep Alive: false
+Locale: English (United States)
+Print dialog: PDF Studio
+C1
+pcdesktop
+User: pc
+PCDesktop
+2020.2.0_linux64
+92728
+Valid: 2021/05/15 14:47:18.427ms EDT
+Check Registration
+Registration Attempt Info: 
+Key - 4NTSTGAB3K1UOHJ3FU2VDTL4BV
+User - pc
+OS - Linux 5.12.8-300.fc34.x86_64 Fedora 34 amd64
+Host - pcdesktop
+Nickname - PCDesktop
+VersionInstaller - 2020.4.0_linux64
+Message - null
+Email - pcosta@gmu.edu
+Name - Paulo Costa
+Professional Version
+4NTSTGAB3K1UOHJ3FU2VDTL4BV
+**Check Registration: 181 ms
+Registration Active
+**Load recent comments: 110 ms
+**Load my comments: 0 ms
+**Create initial frame: 1,162 ms
+PDFException:  msg = 'LFI - bad index (-1) for local font read.'
+com.qoppa.pdf.PDFException: LFI - bad index (-1) for local font read.
+	at com.qoppa.pdf.h.b.d.ic(Unknown Source)
+	at com.qoppa.pdf.h.b.i.d(Unknown Source)
+	at com.qoppa.pdf.h.b.i.g(Unknown Source)
+	at com.qoppa.pdf.FontSettings.getLocalFonts(Unknown Source)
+	at com.qoppa.k.e.d.e(Unknown Source)
+	at com.qoppa.k.e.d.p(Unknown Source)
+	at com.qoppa.k.e.d.<init>(Unknown Source)
+	at com.qoppa.k.g.ic.fmd(Unknown Source)
+	at com.qoppa.o.e.g.fmd(Unknown Source)
+	at com.qoppa.k.g.ic$6.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Error opening font file:  /home/pc/.fonts/cambria.ttf
+Could not determine font type:  [-1] /usr/share/fonts/google-noto-emoji/NotoColorEmoji.ttf
+**Load scan profiles: 4 ms
+**Load recent files: 7 ms
+**Load stamp/fast sign menus: 48 ms
+**Load profile menus: 5 ms
+**Init Default Caches: 0 ms
+**Enable Pro Features: 2 ms
+**Customize Toolbars: 0 ms
+**Check Update Schedule: 94 ms
+**Total startup: 3,094 ms
+**Check in-app messaging: 276 ms
+**Load document: 63 ms
+Defaulting tesseract library path to: /mnt/PCData/PCHome/Applications/pdfstudio2020/lib/tess
+Load TessJNI for Linux 64 bit
+TessJNI loaded successfully.

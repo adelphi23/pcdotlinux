@@ -1,0 +1,127 @@
+2021/05/04 18:22:55.113ms EDT
+Operating System Linux 5.11.16-300.fc34.x86_64 Fedora 34 amd64
+Java Version 1.8.0_202, 64-bit, Oracle Corporation
+Available Cores 8
+-Xmx1024m
+-Dsun.java2d.pmoffscreen=false
+-Dsun.java2d.xrender=false
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+-XX:+UseConcMarkSweepGC
+-XX:+ExplicitGCInvokesConcurrent
+-Xmx1024m
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+PDF Studio Version 2019.2.0.20191111145351-b162
+PDF Studio initialize: 95 ms
+Load settings: 707 ms
+Resolution: 1712x963
+Screen DPI: 95
+Multiplier: 1.0
+Installation Directory: /mnt/PCData/PCHome/Applications/pdfstudio2019
+Working Directory: /home/pc
+User Settings Directory: /home/pc/.pdfstudio2019
+Installer: linux64
+LookAndFeel: Nimbus
+Toolbars: Ribbons
+Keep Alive: false
+Locale: English (United States)
+Print dialog: PDF Studio
+Demo Mode - Start Date Thu Sep 19 09:38:34 EDT 2019
+Create initial frame: 1,615 ms
+Professional Version
+Total startup: 15,137 ms
+PDFException:  msg = 'LFI - bad index (-1) for local font read.'
+com.qoppa.pdf.PDFException: LFI - bad index (-1) for local font read.
+	at com.qoppa.pdf.h.b.d.ic(Unknown Source)
+	at com.qoppa.pdf.h.b.i.d(Unknown Source)
+	at com.qoppa.pdf.h.b.i.g(Unknown Source)
+	at com.qoppa.pdfStudio.gui.xg.b(Unknown Source)
+	at com.qoppa.pdfStudio.gui.xg$1.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:748)
+Error opening font file:  /home/pc/.fonts/cambria.ttf
+Could not determine font type:  [-1] /usr/share/fonts/google-noto-emoji/NotoColorEmoji.ttf
+NativeSwing[1]: Gtk-Message: 18:23:21.830: Failed to load module "pk-gtk-module"
+StructTreeRoot found in GRALetterBusra-Signed.pdf
+java.lang.ArrayIndexOutOfBoundsException: 119 >= 119
+	at java.util.Vector.elementAt(Vector.java:477)
+	at com.qoppa.pdf.t.p.xc(Unknown Source)
+	at com.qoppa.pdf.c.b.pb.ubb(Unknown Source)
+	at com.qoppa.pdf.c.b.jb.oab(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.my(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.rab(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.kab(Unknown Source)
+	at com.qoppa.jb.j.v.n(Unknown Source)
+	at com.qoppa.jb.j.v.v(Unknown Source)
+	at com.qoppa.jb.j.v.lb(Unknown Source)
+	at com.qoppa.jb.j.v.getAnnotations(Unknown Source)
+	at com.qoppa.cb.h.getAnnotations(Unknown Source)
+	at com.qoppa.pdf.n.yb.jl(Unknown Source)
+	at com.qoppa.pdf.n.o.d(Unknown Source)
+	at com.qoppa.pdf.n.o.b(Unknown Source)
+	at com.qoppa.pdf.n.o$1.run(Unknown Source)
+Exception in thread "CommentsLoader" java.lang.ArrayIndexOutOfBoundsException: 119 >= 119
+	at java.util.Vector.elementAt(Vector.java:477)
+	at com.qoppa.pdf.t.p.xc(Unknown Source)
+	at com.qoppa.pdf.c.b.pb.ubb(Unknown Source)
+	at com.qoppa.pdf.c.b.jb.oab(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.my(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.rab(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.kab(Unknown Source)
+	at com.qoppa.jb.j.v.n(Unknown Source)
+	at com.qoppa.jb.j.v.v(Unknown Source)
+	at com.qoppa.jb.j.v.lb(Unknown Source)
+	at com.qoppa.jb.j.v.getAnnotations(Unknown Source)
+	at com.qoppa.cb.h.getAnnotations(Unknown Source)
+	at com.qoppa.jb.g.b.l.m(Unknown Source)
+	at com.qoppa.jb.g.b.bb.jne(Unknown Source)
+	at com.qoppa.pdf.n.o.d(Unknown Source)
+	at com.qoppa.pdf.n.o.b(Unknown Source)
+	at com.qoppa.pdf.n.o$1.run(Unknown Source)
+Exception in thread "thumbnails-1-thread-1" java.lang.ArrayIndexOutOfBoundsException: 119 >= 119
+	at java.util.Vector.elementAt(Vector.java:477)
+	at com.qoppa.pdf.t.p.xc(Unknown Source)
+	at com.qoppa.pdf.c.b.pb.ubb(Unknown Source)
+	at com.qoppa.pdf.c.b.jb.oab(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.my(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.rab(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.kab(Unknown Source)
+	at com.qoppa.jb.j.v.n(Unknown Source)
+	at com.qoppa.jb.j.v.v(Unknown Source)
+	at com.qoppa.jb.j.v.lb(Unknown Source)
+	at com.qoppa.jb.j.v.getAnnotations(Unknown Source)
+	at com.qoppa.cb.h.getAnnotations(Unknown Source)
+	at com.qoppa.jb.j.v.d(Unknown Source)
+	at com.qoppa.jb.j.v.getImage(Unknown Source)
+	at com.qoppa.cb.h.getImage(Unknown Source)
+	at com.qoppa.jb.g.b.m.m(Unknown Source)
+	at com.qoppa.jb.g.b.m.q(Unknown Source)
+	at com.qoppa.jb.g.b.m$1.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 119 >= 119
+	at java.util.Vector.elementAt(Vector.java:477)
+	at com.qoppa.pdf.t.p.xc(Unknown Source)
+	at com.qoppa.pdf.c.b.pb.ubb(Unknown Source)
+	at com.qoppa.pdf.c.b.jb.oab(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.my(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.rab(Unknown Source)
+	at com.qoppa.pdf.c.b.mb.kab(Unknown Source)
+	at com.qoppa.jb.j.v.n(Unknown Source)
+	at com.qoppa.jb.j.v.v(Unknown Source)
+	at com.qoppa.jb.j.v.lb(Unknown Source)
+	at com.qoppa.jb.j.v.getAnnotations(Unknown Source)
+	at com.qoppa.cb.h.getAnnotations(Unknown Source)
+	at com.qoppa.jb.j.v.d(Unknown Source)
+	at com.qoppa.cb.h.zc(Unknown Source)
+	at com.qoppa.cb.h.xf(Unknown Source)
+	at com.qoppa.cb.h.mc(Unknown Source)
+	at com.qoppa.pdfStudio.gui.th.e(Unknown Source)
+	at com.qoppa.pdfStudio.gui.th.b(Unknown Source)
+	at com.qoppa.pdfStudio.gui.th$1.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:748)

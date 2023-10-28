@@ -1,0 +1,80 @@
+2020/10/25 11:03:37.466ms EDT
+Operating System Linux 5.7.19-2-MANJARO ManjaroLinux 20.1.1 amd64
+Java Version 1.8.0_202, 64-bit, Oracle Corporation
+Available Cores 32
+-Xmx1024m
+-Dsun.java2d.pmoffscreen=false
+-Dsun.java2d.xrender=false
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+-XX:+UseConcMarkSweepGC
+-XX:+ExplicitGCInvokesConcurrent
+-Xmx1024m
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+PDF Studio Version 2019.2.0.20191111145351-b162
+PDF Studio initialize: 53 ms
+Load settings: 372 ms
+Resolution: 6400x1600
+Screen DPI: 96
+Multiplier: 1.0
+Installation Directory: /mnt/PCData/PCHome/Applications/pdfstudio2019
+Working Directory: /home/pc
+User Settings Directory: /home/pc/.pdfstudio2019
+Installer: linux64
+LookAndFeel: Nimbus
+Toolbars: Ribbons
+Keep Alive: false
+Locale: English (United States)
+Print dialog: PDF Studio
+C1
+PCDesktop-Manjaro
+User: pc
+PCDesktop
+2019.2.0_linux64
+88638
+Valid: 2020/10/08 16:41:06.282ms EDT
+Professional Version
+0JNIQONLRKJSE1SRLK5ERVJR84
+Create initial frame: 971 ms
+Total startup: 2,152 ms
+Object streams found in MyeongDefenseApprovalSgdDW.pdf
+PDFException:  msg = 'LFI - bad index (-1) for local font read.'
+com.qoppa.pdf.PDFException: LFI - bad index (-1) for local font read.
+	at com.qoppa.pdf.h.b.d.ic(Unknown Source)
+	at com.qoppa.pdf.h.b.i.d(Unknown Source)
+	at com.qoppa.pdf.h.b.i.g(Unknown Source)
+	at com.qoppa.pdfStudio.gui.xg.b(Unknown Source)
+	at com.qoppa.pdfStudio.gui.xg$1.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:748)
+Error opening font file:  /home/pc/.fonts/cambria.ttf
+Could not determine font type:  [-1] /usr/share/fonts/noto/NotoColorEmoji.ttf
+FileNotFoundException:  msg = '/usr/share/fonts/noto/NotoMono-Regular.ttf (Is a directory)'
+java.io.FileNotFoundException: /usr/share/fonts/noto/NotoMono-Regular.ttf (Is a directory)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(RandomAccessFile.java:316)
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:243)
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:124)
+	at com.qoppa.pdf.h.b.d.ic(Unknown Source)
+	at com.qoppa.pdf.h.b.i.d(Unknown Source)
+	at com.qoppa.pdf.h.b.i.g(Unknown Source)
+	at com.qoppa.pdfStudio.gui.xg.b(Unknown Source)
+	at com.qoppa.pdfStudio.gui.xg$1.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:748)
+Error opening font file:  /usr/share/fonts/noto/NotoMono-Regular.ttf
+Oct 25, 2020 11:06:00 AM sun.awt.X11.XToolkit processException
+WARNING: Exception on Toolkit thread
+java.lang.NullPointerException
+	at sun.awt.X11.XWindow.handleXCrossingEvent(XWindow.java:926)
+	at sun.awt.X11.XComponentPeer.handleXCrossingEvent(XComponentPeer.java:75)
+	at sun.awt.X11.XBaseWindow.dispatchEvent(XBaseWindow.java:1128)
+	at sun.awt.X11.XBaseWindow.dispatchToWindow(XBaseWindow.java:1086)
+	at sun.awt.X11.XToolkit.dispatchEvent(XToolkit.java:508)
+	at sun.awt.X11.XToolkit.run(XToolkit.java:622)
+	at sun.awt.X11.XToolkit.run(XToolkit.java:538)
+	at java.lang.Thread.run(Thread.java:748)
+

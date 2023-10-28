@@ -1,0 +1,89 @@
+2021/06/18 21:30:22.696ms EDT
+Operating System Linux 5.11.0-7614-generic Pop 20.10 amd64
+Java Version 1.8.0_202, 64-bit, Oracle Corporation
+Available Cores 8
+-Xmx1024m
+-Dsun.java2d.pmoffscreen=false
+-Dsun.java2d.xrender=false
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+-XX:+UseConcMarkSweepGC
+-XX:+ExplicitGCInvokesConcurrent
+-Xmx1024m
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+PDF Studio Version 2020.4.0.20210316084711-b203
+**PDF Studio initialize: 179 ms
+Start load settings
+**Load import image settings: 3 ms
+**Load locale settings: 35 ms
+**Load annotation settings: 21 ms
+java.lang.Exception: Could not find print service: MFC9970CDW
+	at com.qoppa.pdf.n.lb.<init>(Unknown Source)
+	at com.qoppa.pdf.PrintDefaults.setFromXML(Unknown Source)
+	at com.qoppa.pdfStudio.q.g.zb(Unknown Source)
+	at com.qoppa.pdfStudio.gui.hj.gpc(Unknown Source)
+	at com.qoppa.pdfStudio.pub.PDFStudio$1.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+**Load print settings: 333 ms
+**Load output preview settings: 38 ms
+**Load javascript settings: 24 ms
+**Load last stamp settings: 0 ms
+**Load stamps: 23 ms
+**Load fast signatures: 158 ms
+**Load user settings total: 673 ms
+**Load visibility settings: 37 ms
+**Load UI defaults: 200 ms
+Resolution: 3424x1926
+Screen DPI: 143
+Multiplier: 1.8
+Installation Directory: /mnt/PCData/PCHome/Applications/pdfstudio2020
+Working Directory: /home/pc
+User Settings Directory: /home/pc/.pdfstudio2020
+Installer: linux64
+LookAndFeel: Light
+Toolbars: Ribbons
+Keep Alive: false
+Locale: English (United States)
+Print dialog: PDF Studio
+C1
+pcdesktop -q- pcthinkpad-pop
+User: pc
+PCDesktop
+2020.2.0_linux64
+92728
+Valid: 2021/06/14 18:14:27.229ms EDT
+Professional Version
+4NTSTGAB3K1UOHJ3FU2VDTL4BV
+**Check Registration: 39 ms
+**Load recent comments: 102 ms
+**Load my comments: 1 ms
+**Create initial frame: 1,085 ms
+Could not determine font type:  [-1] /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf
+**Load scan profiles: 1 ms
+**Load recent files: 10 ms
+**Load stamp/fast sign menus: 757 ms
+**Load profile menus: 5 ms
+**Init Default Caches: 0 ms
+**Enable Pro Features: 2 ms
+**Customize Toolbars: 0 ms
+**Check Update Schedule: 120 ms
+**Total startup: 4,497 ms
+**Check in-app messaging: 370 ms

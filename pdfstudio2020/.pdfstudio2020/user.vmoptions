@@ -1,0 +1,12 @@
+# These are user specific VM Option settings that will overwrite defaults set by PDF Studio
+
+# Memory allocated to PDF Studio
+-Xmx1024m
+# Flag to turn on debug mode and error logging 
+-Dqoppa.debug=true
+# Flag to turn on debug mode for scanning on Linux
+-Dqoppa.debug.sane=false
+# Flag to turn on debug mode for scanning with WIA or ICA
+-Dqoppa.debug.morena7=false
+# Flag to turn on debug mode for scanning with Twain
+-Dmorena.debug=false

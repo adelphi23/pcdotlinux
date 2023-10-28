@@ -1,0 +1,75 @@
+<root BookmarkHeadings="true" RibbonToolbars="true" JavaCAs="true" SVGPageBorder="false" ScanSize="Letter" PageHeight="792.0" RightSplitPosition="0" PaintNonprintFields="false" JPGQual="8" SVGCompressImgs="true" ShowSanitizeWarning="true" LastSignAP="0" PageRangeType="PageAll" FallbackPath="/mnt/PCData/PCHome/Applications/pdfstudio2019/fonts/DroidSansFallbackFull.ttf" ScanDeskew="false" DefaultUnits="Inches" UseFallbackFont="USE_PDFSTUDIO_FALLBACKFONT" FrameMaximized="false" HighlightBookmark="true" ScanMultiDocLocation="" ScanColor="0" EnableSpellCheck="true" ExcelPaging="ActualSize" ScanContrast="0" ThumbnailHeight="75" ImageFormat="JPEG" OCRPageRange="PageCurrent" BatchLastPreserveStructure="false" ScanFunctionalUnit="0" SSShowDialog="true" KeepAlive="false" ScanOption="ScanSaneDaemon" ImportImageUseDefaultDirectory="false" ReplaceContentsOnly="false" OCRDPI="300" TiffCompression="null" UpdateSchedule="monthly" BatchLastRenameFiles="true" IgnoreAllCaps="false" FieldsHighlight="true" LastDigitalID="1612490439047" ScanPageSize="Size to Image" SSImageFormat="PNG" GoogleDriveEnabled="true" DefaultScanSource="C922 Pro Stream Webcam" ShowAlignPointsWarning="true" AdjustToZoom="true" Country="US" SSSaveImage="false" ScalingMultiplier="1.0" ShowCloseTabsWaring="true" UseFallbackFontExcel="USE_PDFSTUDIO_FALLBACKFONT" UserEmail="pcosta@gmu.edu" DocusignEnabled="true" ScreenResolution="110" SplitPosition="163" PaintPushButtons="true" ShowFlattenAnnotsWarning="true" ShowWelcomeScreen="true" LookFeel="Light" SpellCheckColor="-65536" ScanOCR="false" ScanQuality="80" FrameHeight="1377" ShowRulers="false" FingerModeEnabled="false" ScanTarget="End of document" ShowTabOrder="false" ShowProFeatureWarning="true" FullScreenBackground="-16777216" UseStampName="false" NativeFileDialog="true" DropboxEnabled="true" BatchDefaultIncludeSubdirs="false" EditContentMode="2" LastCreatedSigType="CustomStamp" UseFirstPageSize="true" ShowSecuritySaveWarning="true" BatchPDFACreateReport="false" RenameFields="true" ShowSignWarning="true" RibbonMinimized="false" PageOrientation="0" PageSize="Letter" EmailFlattenAnnots="false" BatchLastUseDefaultDirectory="false" EMailPref="OSMail" IgnoreNumbers="false" Tabs="true" Language="en" CreateTempOnSave="true" SSFolder="/home/pc/Desktop" BookmarkSheets="true" OCRLanguage="eng" ModOnTitlebar="true" ScanBrightness="0" ScanCompression="JPEG" ShowDeletePagesWarning="true" MaxMissingCharsWord="5" OneDriveEnabled="true" EmbedFonts="true" TiffSingle="false" LastCreatedSigFont="/fonts/satisfy.regular.ttf" ScanDPI="300" FrameY="117" FrameX="336" EnableMessaging="true" JXBrowserEnabled="true" FallbackPathExcel="/mnt/PCData/PCHome/Applications/pdfstudio2019/fonts/DroidSansFallbackFull.ttf" EmailFlattenFields="false" SpellCheckDictionaries="en" ThumbnailWidth="75" OverrideBinding="false" ShowGrid="false" Binding="L2R" EmbedFontsExcel="true" UseCustomStampPreview="true" ExcelMaxPages="2000" RestoreLastView="false" FrameWidth="1554" ToolSize="40" ShowDeleteAnnotsWaring="true" DStart="RZKF0APLESCIQ" InvertColorsMode="false" PaintOnlyImageButtons="true" DPIRes="300" MaxMissingCharsExcel="5" ScreenResolutionOption="custom" PageWidth="612.0" MaxDocumentCount="50" ScanDuplex="false" BatchLastOverwriteSoruces="false">
+    <SMTPSettings SMTPPort="-1" SMTPStartTLS="false" SMTPRememberPassword="false" Bcc="true" SMTPAuthRequired="false"/>
+    <Messages LastMiniMessageID="20201116" LastMessageShow="false" LastMessageID="20201005" MessageFileCheck="1629833291783" MessageFileModified="1627487777000" MessageFileUpdate="1632425285798"/>
+    <InitialView OverridePageLayout="false" OverridePageMode="false" OverrideMagnification="false"/>
+    <BatchInitialView BatchSelectedPage="1"/>
+    <ToolDefaults FlattenEnabled="true" Author="pc" ReviewEnabled="true" DrawOverlappingAnnotationsEnabled="true" CtrlDragCopyAnnotationsEnabled="true" MiniToolbarEnabled="true" AuthorEdit="true" DeleteEnabled="true">
+        <FileAttach Transparency="0" ShowPropDialog="1"/>
+        <Sound Transparency="0" ShowPropDialog="1" Color="-256"/>
+        <TextHighlight Transparency="0" StickyTool="true" ShowPropDialog="0" Color="-256" MarkUpTextContent="false"/>
+        <TextUnderline Transparency="0" StickyTool="true" ShowPropDialog="0" Color="-16776961" MarkUpTextContent="true"/>
+        <TextCross Transparency="0" StickyTool="true" ShowPropDialog="0" Color="-65536" MarkUpTextContent="true"/>
+        <TextReplacement Transparency="0" StickyTool="false" ShowPropDialog="1" Color="-16776961" MarkUpTextContent="true"/>
+        <TextInser Transparency="0" Size="10" StickyTool="false" ShowPropDialog="1" Color="-16776961"/>
+        <TextSquiggly Transparency="0" StickyTool="false" ShowPropDialog="0" Color="-16776961" MarkUpTextContent="true"/>
+        <Link BorderColor="-16777216" BorderWidth="0.0" BorderStyle="S" ShowPropDialog="1"/>
+        <Circle Transparency="0" BorderColor="-65536" StickyTool="false" BorderWidth="1.0" ShowPropDialog="0"/>
+        <Square Transparency="0" BorderColor="-65536" StickyTool="false" BorderWidth="1.0" ShowPropDialog="0"/>
+        <AreaHighlight Transparency="50" BorderColor="-16777216" StickyTool="false" BorderWidth="0.0" ShowPropDialog="0" FillColor="-256"/>
+        <Cloud Transparency="0" BorderColor="-65536" StickyTool="false" BorderWidth="1.0" BorderStyle="2.0" ShowPropDialog="0"/>
+        <Polygon Transparency="0" BorderColor="-65536" StickyTool="false" BorderWidth="1.0" ShowPropDialog="0"/>
+        <PolygonDimension Transparency="0" BorderColor="-65536" StickyTool="false" BorderWidth="1.0" UnitsStringType="0" ShowPropDialog="0" DisplayMeasurement="true"/>
+        <Polyline Transparency="0" LineEndStyle="None" BorderColor="-65536" StickyTool="false" LineStartStyle="None" BorderWidth="1.0" ShowPropDialog="0"/>
+        <PolylineDimension Transparency="0" BorderColor="-65536" StickyTool="false" BorderWidth="1.0" ShowPropDialog="0" DisplayMeasurement="true"/>
+        <Pencil Transparency="0" BorderColor="-65536" StickyTool="true" EnableCurveFit="false" BorderWidth="1.0" TimerDelay="1000" ShowPropDialog="0"/>
+        <Line Transparency="0" LineEndStyle="None" BorderColor="-16777216" StickyTool="true" LineStartStyle="None" BorderWidth="1.0" ShowPropDialog="0"/>
+        <LineArrow Transparency="0" LineEndStyle="ClosedArrow" BorderColor="-65536" StickyTool="true" LineStartStyle="None" BorderWidth="1.0" ShowPropDialog="0" FillColor="-65536"/>
+        <LineDimension ShowCalibrateMsg="true" FillColor="-65536" StickyTool="true" BorderWidth="1.0" LineStartStyle="ClosedArrow" LineEndStyle="ClosedArrow" BorderColor="-65536" ShowPropDialog="0" Transparency="0"/>
+        <DimensionTool ShowDimensionDialog="true" ScalePageUnits="in" ScaleDisplayUnits="in" ScaleDisplayValueY="1" ScalePrecision="0.01" ScalePageValue="1" ScaleDisplayValue="1" ScalePageValueY="1" ScaleDisplayUnitsY="in" ScalePageUnitsY="in" SeparateVerticalScale="false" SnapToConent="true" ShiftPressed="false"/>
+        <RubberStamp Transparency="0" StickyTool="false" Compression="1" ShowPropDialog="0" Quality="0.800000011920929" Color="-65536"/>
+        <FreeText Color="-65536" FontUnderline="false" StickyTool="true" BorderWidth="1.0" BorderColor="-65536" FontSize="12.0" ShowPropDialog="0" FontName="Helvetica" Transparency="0" FontStrikethrough="false" TextAlignY="0" TextAlignX="0"/>
+        <Callout Color="-65536" FontUnderline="false" StickyTool="false" BorderWidth="1.0" BorderColor="-65536" FontSize="12.0" ShowPropDialog="0" FontName="Helvetica" Transparency="0" FontStrikethrough="false" TextAlignY="3" TextAlignX="0"/>
+        <Typewriter Transparency="0" FontUnderline="false" StickyTool="true" FontStrikethrough="false" FontName="Times" ShowPropDialog="0" Color="-16777216" FontSize="12.0"/>
+        <Text IconName="Note" Transparency="0" StickyTool="false" InitiallyOpen="false" ShowPropDialog="1" Color="-256"/>
+        <Redaction OverlayFillColor="-16777216" OverlayRepeat="false" OverlaySize="12.0" FillColor="-16777216" OverlayFont="Helvetica" StickyTool="true" OverlayColor="-1" OverlayAlignment="0" BorderColor="-65536" ShowPropDialog="0" Transparency="50"/>
+        <Bookmark BookmarkStyle="0" BookmarkColor="-16777216"/>
+    </ToolDefaults>
+    <JavaScriptSettings JSSilenceErrors="false" JSSubmitFormWarn="true" JSEnabled="1" JSMailDocWarn="true"/>
+    <PDFAOptions PDFAUnsupportedAnnots="0" PDFAEmbeddedFiles="0" PDFAShowPreConvert="true" PDFATransparency="2"/>
+    <OSCertificates OSCAs="true" OSIDs="true"/>
+    <HeaderFooterList>
+        <HeaderFooter PageFrom="1" AutoShrink="false" FooterLeft="" FooterCenter="" Right="1.0" HeaderLeft="" Border="NoBorder" HeaderRight="" Name="BatesNumber Header Sample" BgndColor="-256" Left="1.0" UseBgnd="false" BorderWidth="1" FooterRight="" PageChoice="PageOdd" BorderColor="-16777216" MarginUnits="Inches" FgndColor="-16776961" HeaderCenter="$bates&lt;&lt;6,2,&quot;Prefix-&quot;,&quot;-Suffix&quot;&gt;&gt;" Bottom="0.5" Top="0.5" ShowOnMenu="true" PageTo="1">
+            <Font Style="0" Size="18.0" FontName="Helvetica"/>
+        </HeaderFooter>
+        <HeaderFooter PageFrom="1" AutoShrink="false" FooterLeft="" FooterCenter="" Right="1.0" HeaderLeft="" Border="NoBorder" HeaderRight="$date&lt;&lt;MM/dd/yyyy&gt;&gt;" Name="Date Header Sample" BgndColor="-256" Left="1.0" UseBgnd="false" BorderWidth="1" FooterRight="" PageChoice="PageAll" BorderColor="-16777216" MarginUnits="Inches" FgndColor="-16776961" HeaderCenter="" Bottom="0.5" Top="0.5" ShowOnMenu="true" PageTo="1">
+            <Font Style="0" Size="18.0" FontName="Helvetica"/>
+        </HeaderFooter>
+        <HeaderFooter PageFrom="1" AutoShrink="false" FooterLeft="" FooterCenter="Page $page of $totalpages" Right="1.0" HeaderLeft="" Border="NoBorder" HeaderRight="" Name="PageNumber Footer Sample" BgndColor="-256" Left="1.0" UseBgnd="false" BorderWidth="1" FooterRight="" PageChoice="PageAll" BorderColor="-16777216" MarginUnits="Inches" FgndColor="-16776961" HeaderCenter="" Bottom="0.5" Top="0.5" ShowOnMenu="true" PageTo="1">
+            <Font Style="0" Size="18.0" FontName="Helvetica"/>
+        </HeaderFooter>
+    </HeaderFooterList>
+    <WatermarkList>
+        <Text PageFrom="1" Angle="315" BehindContent="false" Border="NoBorder" LocationYFrom="FromCenter" Name="PAID Sample" BgndColor="-1" ShowOnPrint="true" LocationUnits="Inches" Transparency="0" ShowOnScreen="true" Justification="0" LocationY="0.0" UseBgnd="false" BorderWidth="1" LocationX="0.0" LocationXFrom="FromCenter" PageChoice="PageAll" BorderColor="-16777216" FgndColor="-16763905" Text="PAID" ShowOnMenu="true" PageTo="9999">
+            <Font Style="0" Size="48.0" FontName="Times-Roman"/>
+        </Text>
+        <Text PageFrom="1" Angle="315" BehindContent="false" Border="NoBorder" LocationYFrom="FromCenter" Name="CONFIDENTIAL Sample" BgndColor="-1" ShowOnPrint="true" LocationUnits="Inches" Transparency="0" ShowOnScreen="true" Justification="0" LocationY="0.0" UseBgnd="false" BorderWidth="1" LocationX="0.0" LocationXFrom="FromCenter" PageChoice="PageAll" BorderColor="-16777216" FgndColor="-16777216" Text="CONFIDENTIAL" ShowOnMenu="true" PageTo="9999">
+            <Font Style="0" Size="48.0" FontName="Times-Roman"/>
+        </Text>
+    </WatermarkList>
+    <SplitList>
+        <Split BaseFileName="" UseSourceFolderOrPrompt="false" AnalyzePage="true" DestinationFolder="" PageRange="" TextSearchBefore="" PageCount="1" TextSearchAfter="" Name="Split by Blank Pages" SplitBy="BlankPage" DocNumberStart="1" BookmarkEnd="1" SuffixOption="SuffixPageRange" Tolerance="5" OverwriteFiles="false" ShowOnMenu="true" UseFileName="true"/>
+        <Split BaseFileName="" UseSourceFolderOrPrompt="false" AnalyzePage="false" DestinationFolder="" PageRange="" TextSearchBefore="" PageCount="1" TextSearchAfter="" Name="Split by Top-Level Bookmarks" SplitBy="Bookmark" DocNumberStart="1" BookmarkEnd="1" SuffixOption="SuffixPageRange" Tolerance="5" OverwriteFiles="false" ShowOnMenu="true" UseFileName="true"/>
+    </SplitList>
+    <PrintSettings PrintAnnotations="false" AutoRotate="true" PrintImageDPI="Default" PrintAsImage="false" ScaleImagesToOutput="true" CenterInPage="true" ExpandToMargins="false" PrintCustomDialog="true" PrintFormFieldsOnly="false" ShrinkToMargins="true"/>
+    <PrintDefaults/>
+    <ExportFolders ExportFolderPNG=""/>
+    <BatchFolders BatchFolderFlattenFields="" BatchFolderRasterize="/mnt/NextCloud/Cursos/EB - SYS-XXX - EB DECISION-MAKING/Certificates/Letter/signed"/>
+    <TextToPDFSettings MarginRight="72.0" PageHeight="792.0" PageWidth="612.0" MarginLeft="72.0" UseBackground="false" MarginTop="72.0" MarginBottom="72.0">
+        <Font Style="0" Size="11.0" FontName="Helvetica"/>
+    </TextToPDFSettings>
+    <CJKSettings/>
+    <CompareOverlay OverlayColorCompare="-3394765" OverlayColorOrig="-13382452"/>
+    <ComparisonLayers Colors="-65536:-16727040:-16776961:-16720676:-2302976:-5987164:-6543440:-1683200:-16537100:-16777216:"/>
+    <OutputPreview SimulateOverprinting="false" UseBackgroundColor="false" ColorSpaceName="sRGB IEC61966-2.1" BackgroundColor="-32"/>
+    <anonymizeSettings subsetAuthor="pc" date="1606876981899" updateSubject="false" updateAuthor="true" subset="false" updateDate="false" clearStatusHistory="false"/>
+</root>

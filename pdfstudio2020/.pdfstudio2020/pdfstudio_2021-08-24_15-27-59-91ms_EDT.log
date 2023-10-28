@@ -1,0 +1,110 @@
+2021/08/24 15:27:59.91ms EDT
+Operating System Linux 5.13.9-200.fc34.x86_64 Fedora 34 amd64
+Java Version 1.8.0_202, 64-bit, Oracle Corporation
+Available Cores 8
+-Xmx1024m
+-Dsun.java2d.pmoffscreen=false
+-Dsun.java2d.xrender=false
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+-XX:+UseConcMarkSweepGC
+-XX:+ExplicitGCInvokesConcurrent
+-Xmx1024m
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+PDF Studio Version 2020.4.0.20210316084711-b203
+**PDF Studio initialize: 304 ms
+Start load settings
+**Load import image settings: 5 ms
+**Load locale settings: 55 ms
+**Load annotation settings: 35 ms
+**Load print settings: 1 ms
+**Load output preview settings: 186 ms
+**Load javascript settings: 127 ms
+**Load last stamp settings: 0 ms
+**Load stamps: 51 ms
+**Load fast signatures: 298 ms
+**Load user settings total: 838 ms
+**Load visibility settings: 75 ms
+**Load UI defaults: 3,492 ms
+Resolution: 1712x963
+Screen DPI: 95
+Multiplier: 1.0
+Installation Directory: /mnt/PCData/PCHome/Applications/pdfstudio2020
+Working Directory: /home/pc
+User Settings Directory: /home/pc/.pdfstudio2020
+Installer: linux64
+LookAndFeel: Light
+Toolbars: Ribbons
+Keep Alive: false
+Locale: English (United States)
+Print dialog: PDF Studio
+C1
+pcdesktop -q- pcthinkpad-f34
+User: pc
+PCDesktop
+2020.2.0_linux64
+92728
+Valid: 2021/06/14 18:14:27.229ms EDT
+Check Registration
+Registration Attempt Info: 
+Key - 4NTSTGAB3K1UOHJ3FU2VDTL4BV
+User - pc
+OS - Linux 5.13.9-200.fc34.x86_64 Fedora 34 amd64
+Host - pcthinkpad-f34
+Nickname - PCDesktop
+VersionInstaller - 2020.4.0_linux64
+Message - null
+Email - pcosta@gmu.edu
+Name - Paulo Costa
+Professional Version
+4NTSTGAB3K1UOHJ3FU2VDTL4BV
+**Check Registration: 90 ms
+Registration Active
+**Load recent comments: 231 ms
+**Load my comments: 1 ms
+**Create initial frame: 2,955 ms
+PDFException:  msg = 'LFI - bad index (-1) for local font read.'
+com.qoppa.pdf.PDFException: LFI - bad index (-1) for local font read.
+	at com.qoppa.pdf.h.b.d.ic(Unknown Source)
+	at com.qoppa.pdf.h.b.i.d(Unknown Source)
+	at com.qoppa.pdf.h.b.i.g(Unknown Source)
+	at com.qoppa.pdf.FontSettings.getLocalFonts(Unknown Source)
+	at com.qoppa.k.e.d.e(Unknown Source)
+	at com.qoppa.k.e.d.p(Unknown Source)
+	at com.qoppa.k.e.d.<init>(Unknown Source)
+	at com.qoppa.k.g.ic.fmd(Unknown Source)
+	at com.qoppa.o.e.g.fmd(Unknown Source)
+	at com.qoppa.k.g.ic$6.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Error opening font file:  /home/pc/.fonts/cambria.ttf
+Could not determine font type:  [-1] /usr/share/fonts/google-noto-emoji/NotoColorEmoji.ttf
+**Load scan profiles: 3 ms
+**Load recent files: 18 ms
+**Load stamp/fast sign menus: 1,744 ms
+**Load profile menus: 11 ms
+**Init Default Caches: 1 ms
+**Enable Pro Features: 3 ms
+**Customize Toolbars: 0 ms
+**Check Update Schedule: 223 ms
+**Total startup: 12,670 ms
+**Check in-app messaging: 608 ms
+NativeSwing[1]: Gtk-Message: 15:28:19.591: Failed to load module "pk-gtk-module"
+**Load document: 73 ms

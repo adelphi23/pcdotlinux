@@ -1,0 +1,47 @@
+2020/12/14 16:37:05.725ms BRST
+Operating System Linux 5.9.12-200.fc33.x86_64 Fedora 33 amd64
+Java Version 1.8.0_202, 64-bit, Oracle Corporation
+Available Cores 8
+-Xmx1024m
+-Dsun.java2d.pmoffscreen=false
+-Dsun.java2d.xrender=false
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+-XX:+UseConcMarkSweepGC
+-XX:+ExplicitGCInvokesConcurrent
+-Xmx1024m
+-Dqoppa.debug=true
+-Dqoppa.debug.sane=false
+-Dqoppa.debug.morena7=false
+-Dmorena.debug=false
+PDF Studio Version 2019.2.0.20191111145351-b162
+PDF Studio initialize: 108 ms
+Load settings: 1,149 ms
+Resolution: 1712x963
+Screen DPI: 96
+Multiplier: 1.0
+Installation Directory: /mnt/PCData/PCHome/Applications/pdfstudio2019
+Working Directory: /home/pc
+User Settings Directory: /home/pc/.pdfstudio2019
+Installer: linux64
+LookAndFeel: Nimbus
+Toolbars: Ribbons
+Keep Alive: false
+Locale: English (United States)
+Print dialog: PDF Studio
+Demo Mode - Start Date Thu Sep 19 10:38:34 BRT 2019
+Create initial frame: 2,316 ms
+Professional Version
+Total startup: 12,547 ms
+PDFException:  msg = 'LFI - bad index (-1) for local font read.'
+com.qoppa.pdf.PDFException: LFI - bad index (-1) for local font read.
+	at com.qoppa.pdf.h.b.d.ic(Unknown Source)
+	at com.qoppa.pdf.h.b.i.d(Unknown Source)
+	at com.qoppa.pdf.h.b.i.g(Unknown Source)
+	at com.qoppa.pdfStudio.gui.xg.b(Unknown Source)
+	at com.qoppa.pdfStudio.gui.xg$1.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:748)
+Error opening font file:  /home/pc/.fonts/cambria.ttf
+Could not determine font type:  [-1] /usr/share/fonts/google-noto-emoji/NotoColorEmoji.ttf
